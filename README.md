@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lehar</h1>
-<h3 align="center">An Aspiring Machine Learning engineer with a strong computer science foundation, and hands-on experience in Machine Learning, and Deep learning.</h3>
+<h3 align="center">An Aspiring Data Scientist/Machine Learning engineer with a strong computer science foundation, and hands-on experience in Machine Learning, and Deep learning.</h3>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leharp&label=Profile%20views&color=0e75b6&style=flat" alt="leharp" /> </p>
 
